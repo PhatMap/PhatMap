@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tran Trung Phat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phatmap&label=Profile%20views&color=0e75b6&style=flat" alt="phatmap" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phatmap" alt="phatmap" /></a> </p>
 
 - 🌱 I’m currently learning **Wordpress**
 
